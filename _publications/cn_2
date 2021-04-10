@@ -1,0 +1,15 @@
+---
+title: "基于数字孪生的飞机蒙皮裂纹智能检查维修策略(An Intelligent Digital-Twin-Based Strategy for the Inspection and Repair of Aircraft Skin Cracks)"
+collection: publications
+permalink: /publication/cn_2
+excerpt: ''
+date: 2021-04-07
+venue: '固体力学学报(Chinese Journal of Solid Mechanics)'
+paperurl: 'http://academicpages.github.io/files/基于数字孪生的飞机蒙皮裂纹智能检查维修策略.pdf'
+citation: '赵福斌, 周轩, & 董雷霆. (2021). 基于数字孪生的飞机蒙皮裂纹智能检查维修策略. <i>固体力学学报</i>, 1–21. https://doi.org/10.19636/j.cnki.cjsm42-1250/o3.2021.030'
+---
+In order to ensure the safety of aircraft structures, inspections and repairs must be rationally planned based on the analysis of the fatigue crack growth, which is affected by various aleatory and epistemic uncertainties. In order to effectively consider the influence of various uncertainties and to track the crack growth process, an intelligent digital-twin-based strategy for planning the inspections and repairs of aircraft skin cracks is proposed in this paper, by fusing the predictions by physical models and ground inspections. In this strategy, the reduced-order fracture mechanics simulation, the fatigue crack growth model, the crack length inspections are integrated into the framework of dynamic Bayesian network. The strategy comprehensively considers the influence of the uncertainties from the initial crack size, crack growth model parameters, pressure loads in flights on crack growth, so as to dynamically adjust the inspection and maintenance intervals according to the probabilistic damage diagnosis and prognosis results. In an example of an aircraft skin with a single edge crack near a rivet hole, the intelligent inspection scheme is demonstrated for three hypothetical specimens with various initial crack sizes and crack growth model parameters. The simulation results show that the proposed method can effectively control the uncertainties from various sources and track the crack growth process, which thereafter gives a dynamic inspection and repair plan for the cracked aircraft skin.
+
+[Download paper here](http://academicpages.github.io/files/基于数字孪生的飞机蒙皮裂纹智能检查维修策略.pdf)
+
+Recommended citation: 赵福斌, 周轩, & 董雷霆. (2021). 基于数字孪生的飞机蒙皮裂纹智能检查维修策略. <i>固体力学学报</i>, 1–21. https://doi.org/10.19636/j.cnki.cjsm42-1250/o3.2021.030.
