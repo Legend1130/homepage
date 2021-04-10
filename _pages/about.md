@@ -13,7 +13,9 @@ This is the front page of a website that is powered by the [academicpages templa
 Education
 ======
 2019-Present Ph.D. Candidate   Beihang University	Flight Vehicle Design
-2017-2019    M.Eng. Candidate  Beihang University	Flight Vehicle Design	
+
+2017-2019    M.Eng. Candidate  Beihang University	Flight Vehicle Design
+
 2013-2017    B.E.              Beihang University	Aircraft Design and Engineering	
 
 Research interests
