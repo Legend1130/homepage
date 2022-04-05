@@ -30,7 +30,6 @@ Research interests
 
 Publications
 =====
-
 Please refers to [publications](https://xuanzhou1.github.io/publications/) for more details and downloadable papers.
 
 2022
@@ -41,8 +40,8 @@ S. He, C. Wang, **X. Zhou<sup>*</sup>**, L. Dong<sup>*</sup>, S. N. Atluri, Weak
 
 2021
 -----
-赵福斌, **周轩**, 董雷霆, 基于数字孪生的飞机蒙皮裂纹智能检查维修策略, 固体力学学报. 42 (2021) 277–286. https://doi.org/10.19636/j.cnki.cjsm42-1250/o3.2021.030.
+赵福斌, **周轩**, 董雷霆<sup>*</sup>, 基于数字孪生的飞机蒙皮裂纹智能检查维修策略, 固体力学学报. 42 (2021) 277–286. https://doi.org/10.19636/j.cnki.cjsm42-1250/o3.2021.030.
 
 2020
 -----
-董雷霆, **周轩**, 赵福斌, 贺双新, 卢志远, 冯建民, 飞机结构数字孪生关键建模仿真技术, 航空学报. 42 (2021) 113–141. https://doi.org/10.7527/S1000-6893.2020.23981. （EI)
+董雷霆<sup>*</sup>, **周轩**, 赵福斌, 贺双新, 卢志远, 冯建民, 飞机结构数字孪生关键建模仿真技术, 航空学报. 42 (2021) 113–141. https://doi.org/10.7527/S1000-6893.2020.23981. （EI)
