@@ -25,14 +25,13 @@ Education
 Research interests
 ======
 1. Structural Integrity and Airframe Digital Twin
-2. Surrogate Modelling and Machine Learning In Engineering
-3. Multidisciplinary Co-simulation
+2. Structural Health Monotoring
+3. Surrogate Modelling and Machine Learning In Engineering
 
 Publications
 =====
 
-Please refers to publications page for more details and downloadable papers.
-
+Please refers to [publications](https://xuanzhou1.github.io/publications/) for more details and downloadable papers.
 
 2022
 -----
