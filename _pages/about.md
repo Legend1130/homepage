@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 =====
-Xuan Zhou is currently pursuing his double Ph.D. at Politecnico di Milano, Department of Mechanical engineering from September 2021 as the second half of his Ph.D. career, while the first half was at Beihang University. His main research interests are the key technologies of the airframe digital twin, including real-time reduced-order modeling, multidisciplinary co-simulation, data fusion of SHM and simulation, etc. He is currently working on the construction of a structural digital twin of a UAV using advanced simulation and machine learning tools. He has published 4 peer-reviewed papers at AIAA J, CMES, et al.
+Xuan Zhou is currently a Ph.D. candidate at the School of Aeronautic Science and Engineering, Beihang University and the Department of Mechanical Engineering, Politecnico di Milano. His research interests include structural integrity, airframe digital twins, structural health monitoring, and surrogate modeling. He published 6 articles in the mainstream peer-reviewed journals in aeronautical engineering and computational mechanics, including the AIAA Journal, Computer Modeling in Engineering & Sciences, Acta Aeronautica et Astronautica Sinica.
 
 Education
 ======
@@ -31,12 +31,20 @@ Research interests
 Publications
 =====
 Please refers to [publications](https://xuanzhou1.github.io/publications/) for more details and downloadable papers.
+2023
+-----
+
+F. Zhao, **X. Zhou<sup>*</sup>**, C. Wang,  L. Dong<sup>*</sup>, S. N. Atluri, Setting Inspection Intervals in Helicopter Components, Based on a Digital-Twin, AIAA Journal. (2023). Accepted. (SCI, Corrosponding Author)
+
 
 2022
 -----
-S. He, C. Wang, **X. Zhou<sup>*</sup>**, L. Dong<sup>*</sup>, S. N. Atluri, Weakly Singular Symmetric Galerkin Boundary Element Method for Fracture Analysis of Three-Dimensional Structures Considering Rotational Inertia and Gravitational Forces, Computer Modeling in Engineering & Sciences. 131 (2022) 1–27. https://doi.org/10.32604/cmes.2022.019160. (SCI, Q3, Corrosponding Author)
 
-**X. Zhou**, S. He<sup>*</sup>, L. Dong<sup>*</sup>, S.N. Atluri, Real-Time Prediction of Probabilistic Crack Growth with a Helicopter Component Digital Twin, AIAA Journal. 60 (2022) 2555–2567. https://doi.org/10.2514/1.J060890. (SCI, Q1, First Author)
+**X. Zhou**, D. Oboe, D. Poloni, C. Sbarufatti<sup>*</sup>, L. Dong<sup>*</sup>, Cluster-Based Joint Distribution Adaptation Method for Debonding Quantification in Composite Structures, AIAA Journal. (2022) 1-12. https://doi.org/10.2514/1.J062417. (SCI, First Author)
+
+S. He, C. Wang, **X. Zhou<sup>*</sup>**, L. Dong<sup>*</sup>, S. N. Atluri, Weakly Singular Symmetric Galerkin Boundary Element Method for Fracture Analysis of Three-Dimensional Structures Considering Rotational Inertia and Gravitational Forces, Computer Modeling in Engineering & Sciences. 131 (2022) 1–27. https://doi.org/10.32604/cmes.2022.019160. (SCI, Corrosponding Author)
+
+**X. Zhou**, S. He<sup>*</sup>, L. Dong<sup>*</sup>, S.N. Atluri, Real-Time Prediction of Probabilistic Crack Growth with a Helicopter Component Digital Twin, AIAA Journal. 60 (2022) 2555–2567. https://doi.org/10.2514/1.J060890. (SCI, First Author)
 
 2021
 -----
